@@ -4,9 +4,13 @@ title: "About David Florian"
 
 ---
 
-## Education & Experience
+## Education
 
-I am a Chemical and Biomolecular Engineering major at Vanderbilt University with experience in materials-related research!
+I am a Junior Chemical and Biomolecular Engineering major at Vanderbilt University with experience in materials-related research!
+* Vanderbilt University, BE Chemical Engineering, Mathematics | Minors in Materials Science, Digital Fabrication, Chemistry
+  * expected graduation: Spring 2028
+
+## Experience
 
 * Vanderbilt University, Colloids & Interfacial Phenomena Lab
   * Assisted in electrochemical cell experiments to determine the kinetics and quality of assembly of colloid particles under AC electric field.
