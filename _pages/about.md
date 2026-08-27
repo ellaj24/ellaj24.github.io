@@ -33,4 +33,5 @@ I am proficient in a number of skills and programs that have assisted in my expe
 * MATLAB
 
 
-<img src="/assets/img/112.jpe" alt="Ella Jenner" style="width:200px;"/>
+![Ella Jenner](/assets/img/112.jpeg)
+
