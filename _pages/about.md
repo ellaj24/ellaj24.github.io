@@ -8,7 +8,7 @@ title: "About David Florian"
 
 I am a Junior Chemical and Biomolecular Engineering major at Vanderbilt University with experience in materials-related research!
 * Vanderbilt University, BE Chemical Engineering, Mathematics | Minors in Materials Science, Digital Fabrication, Chemistry
-  * expected graduation: Spring 2028
+  * Expected Graduation: Spring 2028
 
 ## Experience
 
