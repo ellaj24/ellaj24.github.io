@@ -4,28 +4,33 @@ title: "About David Florian"
 
 ---
 
-## Education
+## Education & Experience
 
-David prides himself on his diverse skill set. His most prominent fields of expertise are additive manufacturing (i.e., 3D printing) and biotechnology. 
+I am a Chemical and Biomolecular Engineering major at Vanderbilt University with experience in materials-related research!
 
-* University of Virginia
-  * BS Mathematics
-  * BS Biomedical Engineering
-* Vanderbilt University
-  * PhD Biomedical Engineering
+* Vanderbilt University, Colloids & Interfacial Phenomena Lab
+  * Assisted in electrochemical cell experiments to determine the kinetics and quality of assembly of colloid particles under AC electric field.
+* Binghamton University, Renewable Energy Generation and Storage REU, 2D Materials for Hydrogen Evolution
+  * Investigated synthesis and doping parameters for transition metal dichalcogenides and their use as earth-abundant alternatives to platinum-group HER catalysts. 
 
 ## Technical Skills
 
 David can operate a number of different computer controlled (CNC) fabrication tools to turn 3D models into real-life parts. David has experience with the following additive manufacturing technologies:
+I am proficient in a number of skills and programs that have assisted in my experiences, including:
 
-* Fused Filament Fabrication (FFF)
-* Stereolithography (SLA)
-* Selective Laser Sintering (SLS)
-* 3D Inkjet Printing
-* Bioplotting
+### Characterization Techniques:
+* Confocal Microscopy
+* Raman Spectroscopy
+* Atomic Force Microscopy
+* Small-Angle Light Scattering
 
-## Press 
+### Applications and Programming Languages:
+* Fusion360
+* Igor Pro
+* ImageJ
+* Adobe Premiere
+* Python
+* MATLAB
 
-The new Digital Fabrication Minor was covered in the [Vanderbilt Hustler](https://vanderbilthustler.com/2022/11/09/digital-fabrication-minor-introduced-for-2022-23-academic-year/).
 
 <img src="/assets/img/David_Headshot_web2.jpg" alt="David Florian" style="width:200px;"/>
