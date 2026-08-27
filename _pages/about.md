@@ -33,5 +33,7 @@ I am proficient in a number of skills and programs that have assisted in my expe
 * MATLAB
 
 
-![Ella Jenner](/assets/img/112.jpeg)
+<img src="/assets/img/112.jpeg" width="300" alt="Ella Jenner">
+
+
 
