@@ -33,4 +33,4 @@ I am proficient in a number of skills and programs that have assisted in my expe
 * MATLAB
 
 
-<img src="/assets/img/David_Headshot_web2.jpg" alt="David Florian" style="width:200px;"/>
+<img src="/assets/img/112.jpe" alt="Ella Jenner" style="width:200px;"/>
