@@ -19,16 +19,15 @@ I am a Junior Chemical and Biomolecular Engineering major at Vanderbilt Universi
 
 ## Technical Skills
 
-David can operate a number of different computer controlled (CNC) fabrication tools to turn 3D models into real-life parts. David has experience with the following additive manufacturing technologies:
 I am proficient in a number of skills and programs that have assisted in my experiences, including:
 
-### Characterization Techniques:
+#### Characterization Techniques:
 * Confocal Microscopy
 * Raman Spectroscopy
 * Atomic Force Microscopy
 * Small-Angle Light Scattering
 
-### Applications and Programming Languages:
+#### Applications and Programming Languages:
 * Fusion360
 * Igor Pro
 * ImageJ
@@ -36,6 +35,13 @@ I am proficient in a number of skills and programs that have assisted in my expe
 * Python
 * MATLAB
 
+Furthermore, through my digital fabrication minor, I have been trained and will continue to receive training in a number of tools.
+
+## Digital Fabrication Tools:
+* Filament 3D Printing 
+
+## Publications
+* o	Banarooei, S.S., Blake, H., **Jenner, E.**, Marbach, S., Silvera Batista, C.A. (under review). *Controlling defect density in two-dimensional colloidal crystals using low-frequency AC electric fields*
 
 <img src="/assets/img/112.jpeg" width="300" alt="Ella Jenner">
 
