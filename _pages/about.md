@@ -35,9 +35,9 @@ I am proficient in a number of skills and programs that have assisted in my expe
 * Python
 * MATLAB
 
-Furthermore, through my digital fabrication minor, I have been trained and will continue to receive training in a number of tools.
+## Furthermore, through my digital fabrication minor, I have been trained and will continue to receive training in a number of tools.
 
-## Digital Fabrication Tools:
+#### Digital Fabrication Tools:
 * Filament 3D Printing 
 
 ## Publications
