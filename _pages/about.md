@@ -41,7 +41,7 @@ Furthermore, through my digital fabrication minor, I have been trained and will 
 * Filament 3D Printing 
 
 ## Publications
-* o	Banarooei, S.S., Blake, H., **Jenner, E.**, Marbach, S., Silvera Batista, C.A. (under review). *Controlling defect density in two-dimensional colloidal crystals using low-frequency AC electric fields*
+* Banarooei, S.S., Blake, H., **Jenner, E.**, Marbach, S., Silvera Batista, C.A. (under review). *Controlling defect density in two-dimensional colloidal crystals using low-frequency AC electric fields*
 
 <img src="/assets/img/112.jpeg" width="300" alt="Ella Jenner">
 
