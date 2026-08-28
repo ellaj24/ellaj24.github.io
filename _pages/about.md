@@ -1,9 +1,9 @@
 ---
 
-title: "About David Florian"
+title: "About Ella Jenner"
 
 ---
-
+# Hi, I am a chemical engineer interested in pursuing a career in the energy industry!
 ## Education
 
 * Vanderbilt University, BE Chemical Engineering, Mathematics | Minors in Materials Science, Digital Fabrication, Chemistry
