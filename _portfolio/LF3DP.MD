@@ -2,8 +2,9 @@
 title: "Large Format 3D Printer"
 excerpt: "A 1 kg/hr pellet extruder and 1 cubic meter build envelope for printing furniture."
 header:
-  image: /assets/img/Assembly Real.jpg
-  teaser: /assets/img/Large-Format-3D-Printer-Thumbnail.png
+  image: /assets/img/Assembly Rendering.jpg
+
+  teaser: /assets/img/Assembly Real.jpg
 gallery:
   - image_path: assets/img/Slide-3.png
   - image_path: assets/img/Slide-2.png
