@@ -1,5 +1,5 @@
 ---
-title: "Hi, I am Ella!"
+title: "Hi, I'm Ella!"
 layout: splash
 header:
   overlay_color: "#000"
@@ -8,7 +8,7 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "I am a Junior Chemical and Biomolecular Engineering major at Vanderbilt University with experience in materials-related research and interest in the energy industry!"
+excerpt: "I am a Junior Chemical and Biomolecular Engineering major at Vanderbilt University with experience in materials-related research and interest in the energy industry! Take a look around and learn more about me and my digital fabrication projects I've completed!"
 feature_row:
   - image_path: assets/img/Assembly_Render_08292026.png
     alt: "Syringe Pump"
