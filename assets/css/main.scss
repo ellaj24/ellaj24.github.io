@@ -5,5 +5,17 @@ search: false
 
 @charset "utf-8";
 
+$primary-color: #d8a8dc;         // Primary accent color (buttons, borders)
+$link-color: #8f65cc;            // Standard hyperlink color
+$link-color-hover: #bba3df;      // Link hover state
+
+// Background & Surface Colors
+$background-color: #cfe2f3;      // Main page background
+$code-background-color: #e9ecef; // Code block background
+
+// Text Colors
+$text-color: #0b5394;            // Body text color
+$muted-text-color: #6fa8dc;      // Metadata text (dates, tags)
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
