@@ -1,6 +1,6 @@
 ---
 title: "Syringe Pump"
-excerpt: "A 1 kg/hr pellet extruder and 1 cubic meter build envelope for printing furniture."
+excerpt: "A programmable 3D printed syringe pump capable of dispensing fluid for a variety of applications."
 header:
   image: /assets/img/Assembly_Render_08292026.png
 
