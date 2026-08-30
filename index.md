@@ -10,17 +10,14 @@ header:
       url: "/portfolio/"
 excerpt: "I am a Junior Chemical and Biomolecular Engineering major at Vanderbilt University with experience in materials-related research and interests in the energy industry!"
 feature_row:
-  - image_path: assets/img/CNC-Mill-Thumbnail.jpg
-    alt: "CNC Mill"
-    title: "Custom CNC Milling Machine"
-    excerpt: "Built for fabricating aluminum and steel parts."
-  - image_path: assets/img/Plasma-Cutter-Banner.jpg
-    alt: "placeholder image 2"
-    title: "DIY Plasma Cutter"
-    excerpt: "A hot plasma stream slices through sheet metal."
-  - image_path: assets/img/Zidex-Thumbnail.jpg
-    title: "Bespoke IDEX 3D Printer"
-    excerpt: "Multimaterial printing. "
+  - image_path: assets/img/Assembly_Render_08292026.png
+    alt: "Syringe Pump"
+    title: "Syringe Pump Project"
+    excerpt: "A DIY-able, highly capable alternative to an expensive piece of equipment."
+  - image_path: assets/img/Phone_Case_2025-Oct-31_07-19-05AM-000_CustomizedView1894525877_png.png
+    alt: "Phone case rendering"
+    title: "3D Printed Phone Case "
+    excerpt: "A customizable protective phone case."
 ---
 
 {% include feature_row %}
