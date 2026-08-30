@@ -21,6 +21,12 @@ gallery:
 * **Status Monitoring: LED Light Codes** An LED light displays the status of the pump: green, yellow, or red, for running, paused, and empty, respectively. 
 * **Electrical Protection: Secured Enclosure** An enclosure encases the electrical components of the assembly, protecting both the user and the pump from unwanted contact during operation. Further, the assembly is mounted to the top of the enclosure for security and is easily detachable.
 
+# Off-The-Shelf Parts
+
+| Part      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
 
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b602811a1b84a38a6c3e09a?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
