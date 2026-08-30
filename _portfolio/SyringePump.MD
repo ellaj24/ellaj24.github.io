@@ -49,7 +49,7 @@ gallery:
 | Plunger Holder | 1 |
 | End Support | 2|
 | Motor Mounting Plate | 1 |
-| Enclosure | 1 |
+| [Enclosure](https://github.com/ellaj24/ellaj24.github.io/blob/main/assets/img/Enclosure.jpg) | 1 |
 
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b602811a1b84a38a6c3e09a?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
