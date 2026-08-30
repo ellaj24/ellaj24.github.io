@@ -48,7 +48,7 @@ gallery:
 | Barrel Holder | 1 |
 | Plunger Holder | 1 |
 | End Support | 2|
-| Motor Mounting Plate | 1 |
+| [Motor Mounting Plate](/assets/img/Motor Mounting Plate.jpg) | 1 |
 | [Enclosure](https://github.com/ellaj24/ellaj24.github.io/blob/main/assets/img/Enclosure.jpg) | 1 |
 
 # CAD Model
