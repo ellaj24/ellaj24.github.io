@@ -41,6 +41,15 @@ gallery:
 | [RGB Common Cathode LED](https://www.amazon.com/dp/B0194Y6MW2/ref=cm_sw_em_r_mt_dp_FW3CFQT7ZGFQ2R04N6G3?_encoding=UTF8&psc=1) | 1 |
 | [LCD1602 Display Module](https://a.co/d/00xX1FFZ) | 1 |
 
+# 3D Printed Parts
+
+| Part      | Quantity |
+| ----------- | ----------- |
+| Barrel Holder | 1 |
+| Plunger Holder | 1 |
+| End Support | 2|
+| Motor Mounting Plate | 1 |
+| Enclosure | 1 |
 
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b602811a1b84a38a6c3e09a?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
