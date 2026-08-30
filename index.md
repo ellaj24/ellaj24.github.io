@@ -1,10 +1,10 @@
----
-title: "Example Web Page"
+<img width="1133" height="635" alt="image" src="https://github.com/user-attachments/assets/0e8c25c3-ff3e-431a-bd98-8301a9bb0f82" />---
+title: "Hi, I am Ella!"
 layout: splash
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/img/Home-Banner-Image.jpeg
+  overlay_filter: "0.3"
+  overlay_image: /assets/img/Header.jpg
   actions:
     - label: "My Projects"
       url: "/portfolio/"
