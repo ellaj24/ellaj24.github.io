@@ -3,7 +3,7 @@ title: "Hi, I am Ella!"
 layout: splash
 header:
   overlay_color: "#000"
-  overlay_filter: "0.4"
+  overlay_filter: "0.2"
   overlay_image: /assets/img/Header.jpg
   actions:
     - label: "My Projects"
