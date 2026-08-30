@@ -6,9 +6,9 @@ header:
 
   teaser: /assets/img/Assembly Real.jpg
 gallery:
-  - image_path: assets/img/Slide-3.png
-  - image_path: assets/img/Slide-2.png
-  - image_path: assets/img/Slide-4.png
+  - image_path: assets/img/wiring diagram.jpg
+  - image_path: assets/img/Assembly Real.jpg
+  - image_path: assets/img/Assembly_Render_08292026.png
    
 ---
 
