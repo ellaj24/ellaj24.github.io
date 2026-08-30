@@ -46,7 +46,7 @@ gallery:
 | Part      | Quantity |
 | ----------- | ----------- |
 | [Barrel Holder](https://github.com/ellaj24/ellaj24.github.io/blob/main/assets/img/Barrel%20Holder.jpg) | 1 |
-| [Plunger Holder}(https://github.com/ellaj24/ellaj24.github.io/blob/main/assets/img/Plunger%20Holder.jpg) | 1 |
+| [Plunger Holder](https://github.com/ellaj24/ellaj24.github.io/blob/main/assets/img/Plunger%20Holder.jpg) | 1 |
 | [End Support](https://github.com/ellaj24/ellaj24.github.io/blob/main/assets/img/End%20Support.jpg) | 2|
 | [Motor Mounting Plate](https://github.com/ellaj24/ellaj24.github.io/blob/main/assets/img/Motor%20Mounting%20Plate.jpg) | 1 |
 | [Enclosure](https://github.com/ellaj24/ellaj24.github.io/blob/main/assets/img/Enclosure.jpg) | 1 |
