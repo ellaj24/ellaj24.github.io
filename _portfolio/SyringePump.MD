@@ -23,9 +23,9 @@ gallery:
 
 # Off-The-Shelf Parts
 
-| Part      | Description |
+| Part      | Quantity |
 | ----------- | ----------- |
-| Header      | Title       |
+| [250 mm lead screw w/ 2 mm pitch & 2 mm lead] (https://www.amazon.com/dp/B07R1H5ZMV/ref=cm_sw_em_r_mt_dp_0YZ13D4HQBGW2Z86PBV1?_encoding=UTF8&psc=1}      | 1   |
 | Paragraph   | Text        |
 
 # CAD Model
