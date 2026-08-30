@@ -6,7 +6,8 @@ title: "About Ella Jenner"
 # Hi, I am a chemical engineer interested in pursuing a career in the energy industry!
 ## Education
 
-* Vanderbilt University, BE Chemical Engineering, Mathematics | Minors in Materials Science, Digital Fabrication, Chemistry
+* Vanderbilt University, BE Chemical Engineering, Mathematics
+  * Minors in Materials Science, Digital Fabrication, Chemistry
   * Expected Graduation: Spring 2028
 
 ## Experience
