@@ -14,11 +14,15 @@ gallery:
 
 # Features
 
-* **Massive Print Area: 1140 x 1200 x 1100 mm.** With a build envelop just shy of 4 feet in all dimensions, the LF3DP is capable of printing furniture and other large objects.
-* **High Volumetric Output Extruder: 1 kg/hr - 450 C.** This printer come standard with a MDPH2 extruder by Massive Dimension, which can extrude at a rate of 1 kg/hr. Unlike typical filament extruders, the MDPH2 uses a screw to convey and liquify plastic pellets before the molten material is pushed out of a large nozzle (1 to 5 mm extrusion diameter). Please note: This printer can also be configured for other high flow rate extruders, such as the Typhoon and Pulsar by Dyze Design.
-* **Affordable Pellet Feedstock** Pellets are the cheapest form of feedstock for any plastic-based manufacturing process. Save 50-75% of material costs by using pellets instead of spools of filament. Concentrated colorant can be added to the virgin material to achieve any color in the rainbow without requiring large amounts of storage. Recyled material can also be used for sustainable material printing.
+* **Range of Volumetric Outputs: 10 & 20 mL Syringes** The syringe supports accommodate both 10 and 20 mL syringes, capable of dispensing up to 10.63 mL/min. 
+* **Ease of Use: Programmable Movement** The code automatically converts the desired flowrate into precise movements for a given syringe size.
+* **Informative Display** A screen on the enclosure displays the programmed flow rate and the time remaining until the syringe is empty.
+* **Safety Features: Switch Motion Regulation** A limit switch mounted on the assembly automatically stops the pump when a blockage is encountered or the dispensing is complete. Additionally, a latching button located on the front of the enclosure can be used to start and stop the motion of the pump during dispensing.
+* **Status Monitoring: LED Light Codes** An LED light displays the status of the pump: green, yellow, or red, for running, paused, and empty, respectively. 
+* **Electrical Protection: Secured Enclosure** An enclosure encases the electrical components of the assembly, protecting both the user and the pump from unwanted contact during operation. Further, the assembly is mounted to the top of the enclosure for security and is easily detachable.
+
 
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b602811a1b84a38a6c3e09a?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-{% include gallery caption="Large Format 3D Printer Gallery" %}
+{% include gallery caption="Syringe Pump Gallery" %}
