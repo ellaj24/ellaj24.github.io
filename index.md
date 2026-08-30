@@ -8,7 +8,7 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "I am a Junior Chemical and Biomolecular Engineering major at Vanderbilt University with experience in materials-related research and interests in the energy industry!"
+excerpt: "I am a Junior Chemical and Biomolecular Engineering major at Vanderbilt University with experience in materials-related research and interest in the energy industry!"
 feature_row:
   - image_path: assets/img/Assembly_Render_08292026.png
     alt: "Syringe Pump"
