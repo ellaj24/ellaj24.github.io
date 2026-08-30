@@ -50,7 +50,8 @@ reCaptcha:
   secret                 : # "PznnZGu3P6eTHRPLORniSq+J61YEf+A9zmColXDM5icqF49gbunH51B8+h+i2IvewpuxtA9TFoK68TuhUp/X3YKmmqhXasegHYabY50fqF9nJh9npWNhvITdkQHeaOqnFXUIwxfiEeUt49Yoa2waRR7a5LdRAP3SVM8hz0KIBT4="
 
 atom_feed:
-  path                   : # blank (default) uses feed.xml
+  path                   :
+  hide                   : true # blank (default) uses feed.xml
 
 search                   : true # true, false (default)
 search_full_content      : true # true, false (default)
@@ -100,7 +101,7 @@ author:
   bio              : "A future chemical engineer"
   location         : "Nashville, TN"
   links:
-    - label: "GitHub"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/ella-jenner-103020380/"
 
