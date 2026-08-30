@@ -102,22 +102,17 @@ author:
   location         : "Nashville, TN"
   links:
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/DrD-Flo"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/dr.dflo"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/ella-jenner-103020380/"
+
 
 
 # Site Footer
 footer:
   links:
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/DrD-Flo"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/dr.dflo"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/ella-jenner-103020380/"
 
 
 # Reading Files
