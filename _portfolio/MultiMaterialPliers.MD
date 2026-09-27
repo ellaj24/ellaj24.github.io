@@ -1,6 +1,6 @@
 ---
-title: "Syringe Pump"
-excerpt: "A programmable 3D printed syringe pump capable of dispensing fluid for a variety of applications."
+title: "MultiMaterial Pliers"
+excerpt: "3D printed pliers with a flexible TPU component capable of picking up thin wires of resistors ."
 header:
   image: /assets/img/Assembly_Render_08292026.png
 
@@ -11,15 +11,13 @@ gallery:
   - image_path: assets/img/Assembly_Render_08292026.png
    
 ---
+# Print-in-Place Designs
 
-# Features
+In many projects, it is often feasible to use a print-in-place design to 3D print parts with moving components, enabling single material extrusion without need for post-processing asesembly. Print-in-place design in used in many practical applications, such as [hinges](https://www.printables.com/model/565824-hinge-print-in-place-optimized-for-3d-printing-no-) or [bearings](https://www.printables.com/model/561588-bearings-print-in-place-with-real-rolling-elements), and some more novel, like [fidget toys](https://www.printables.com/model/972886-rotarings-print-in-place-rotating-fidget). This type of printing approach requires clearances around moving parts. However, successful execution requires careful and often complicated design and orientation of parts for proper printing, and the performance of the piece is dependent upon the accuracy of the print, which can often be affected by printing irregularities. Thus, in many cases, it is more efficient employ a different approach in design. 
 
-* **Range of Volumetric Outputs: 10 & 20 mL Syringes** The syringe supports accommodate both 10 and 20 mL syringes, capable of dispensing up to 10.63 mL/min. 
-* **Ease of Use: Programmable Movement** The code automatically converts the desired flowrate into precise movements for a given syringe size.
-* **Informative Display** A screen on the enclosure displays the programmed flow rate and the time remaining until the syringe is empty.
-* **Safety Features: Switch Motion Regulation** A limit switch mounted on the assembly automatically stops the pump when a blockage is encountered or the dispensing is complete. Additionally, a latching button located on the front of the enclosure can be used to start and stop the motion of the pump during dispensing.
-* **Status Monitoring: LED Light Codes** An LED light displays the status of the pump: green, yellow, or red, for running, paused, and empty, respectively. 
-* **Electrical Protection: Secured Enclosure** An enclosure encases the electrical components of the assembly, protecting both the user and the pump from unwanted contact during operation. Further, the assembly is mounted to the top of the enclosure for security and is easily detachable.
+# Project and Design
+These pliers utilizes 
+
 
 # Off-The-Shelf Parts
 
