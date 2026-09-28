@@ -19,6 +19,10 @@ feature_row:
     alt: "Phone case rendering"
     title: "3D Printed Phone Case "
     excerpt: "A customizable protective phone case."
+  - image_path: assets/img/pliers_main.png
+    alt: "MultiMaterial Pliers"
+    title: "MultiMaterial Pliers"
+    excerpt: "A pair of functioning 3D printed pliers made with a flexible TPU joint."
 ---
 # Project Preview:
 {% include feature_row %}
