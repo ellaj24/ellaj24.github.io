@@ -13,11 +13,14 @@ gallery:
 ---
 # Print-in-Place Designs
 
-In many projects, it is often feasible to use a print-in-place design to 3D print parts with moving components, enabling single material extrusion without need for post-processing asesembly. Print-in-place design in used in many practical applications, such as [hinges](https://www.printables.com/model/565824-hinge-print-in-place-optimized-for-3d-printing-no-) or [bearings](https://www.printables.com/model/561588-bearings-print-in-place-with-real-rolling-elements), and some more novel, like [fidget toys](https://www.printables.com/model/972886-rotarings-print-in-place-rotating-fidget). This type of printing approach requires clearances around moving parts. However, successful execution requires careful and often complicated design and orientation of parts for proper printing, and the performance of the piece is dependent upon the accuracy of the print, which can often be affected by printing irregularities. Thus, in many cases, it is more efficient employ a different approach in design. 
+In many projects, it is often feasible to use a print-in-place design to 3D print parts with moving components, enabling single material extrusion without need for post-processing asesembly. Print-in-place design in used in many practical applications, such as [hinges](https://www.printables.com/model/565824-hinge-print-in-place-optimized-for-3d-printing-no-) or [bearings](https://www.printables.com/model/561588-bearings-print-in-place-with-real-rolling-elements), and some more novel objects, like [fidget toys](https://www.printables.com/model/972886-rotarings-print-in-place-rotating-fidget). This type of printing approach employs clearances around moving parts that allow for a function part immediately after removal from the print bed. However, successful execution requires careful and often complicated design and orientation of parts for proper printing, and the performance of the piece is dependent upon the accuracy of the print, which can often be affected by printing irregularities. Thus, multimaterial prints which use a combination of rigid and flexible materials, such as PLA and TPU, are often useful to circumvent this issue.
 
-# Project and Design
-This project utilizes a more traditional method of modeling and printing where motion is achieved by fitting together multiple parts of differing material properties. These multimaterial pliers consists of rigid PLA handles joined by a flexible TPU hinge. At rest, the pliers remain open, and upon compression of the handles, the jaws close together. When the pressure is removed, the pliers return to their open resting postion. 
-To The slicer settings was leveraged to obtain the grid pattern on the flexible center component.
+# Multimaterial Pliers
+These multimaterial pliers consists of rigid PLA handles joined by a flexible 95A TPU spring. At rest, the pliers remain open, and upon compression of the handles, the jaws close together and return to their open resting postion when the compression is removed. These were designed to capably pick up resistors.
+
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b602811173105476a813c84?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+Slicer settings were leveraged to obtain the grid pattern on the flexible center component. By changing the infill density, the number of grids could be manipulated, thereby tuning the rigidity of the component and thus the capacity of the pliers. 
 
 
 # Off-The-Shelf Parts
