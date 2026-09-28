@@ -18,7 +18,7 @@ In many projects, it is often feasible to use a print-in-place design to 3D prin
 # Multimaterial Pliers
 These multimaterial pliers consists of rigid PLA handles joined by a flexible 95A TPU spring. At rest, the pliers remain open, and upon compression of the handles, the jaws close together and return to their open resting postion when the compression is removed. These were designed to capably pick up resistors.
 
-![Pliers](https://github.com/ellaj24/ellaj24.github.io/blob/main/assets/img/pliers.gif)
+![Pliers](assets/img/pliers.gif)
 
 # CAD Model and Design Process
 Without access to multi-material printers, this design can be executed by printing the flexible and rigid pieces separately and hand pressing the parts together. These parts can be modeled together and exported separately for individual printing.
@@ -44,6 +44,8 @@ Slicer settings were leveraged to obtain the grid pattern on the flexible center
 ## Clearance Requirements
 While a clearance around the dovetails can make the fitting of the rigid and flexible parts easier, the final assembly of the pliers used no added clearance, and the parts were hand-pressed together before being completed by hammering them in with a mallet. 
 
+# CAD Model
+
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b602811173105476a813c84?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 
@@ -51,54 +53,6 @@ While a clearance around the dovetails can make the fitting of the rigid and fle
  
 
 
-# Off-The-Shelf Parts
 
-| Part      | Quantity |
-| ----------- | ----------- |
-| [250 mm lead screw with 2 mm pitch and 2 mm lead](https://www.amazon.com/dp/B07R1H5ZMV/ref=cm_sw_em_r_mt_dp_0YZ13D4HQBGW2Z86PBV1?_encoding=UTF8&psc=1) | 1   |
-| [250 mm lead screw with 2 mm pitch and 8 mm lead](https://amzn.to/3infwI0)   | 1        |
-| [1/4" x 8mm Flexible Coupling](https://openbuildspartstore.com/1-4-x-8mm-flexible-coupling/) | 1 |
-| [200 mm linear rod with 8 mm diameter](https://www.amazon.com/dp/B07MPGWJMS/ref=cm_sw_em_r_mt_dp_X5AQS0ES7JH8JG83AAZ3) | 2|
-| [LM8UU Linear bearing for 8 mm diameter rod](https://www.amazon.com/gp/product/B087WPGQ8T/ref=ppx_yo_dt_b_asin_image_o00_s00?ie=UTF8&psc=1) | 2 |
-| [2040 Aluminum Extrusion 1' Length](https://openbuildspartstore.com/v-slot-20x40-linear-rail/) | 1 |
-| [Nema 17 Stepper Motor](https://www.amazon.com/gp/product/B07LF898KN/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1) | 1 |
-| [MEAN WELL RQ-65D AC-DC Power Supply Quad Output 5V 12V 24V 12V 4 Amp](https://www.amazon.com/dp/B005T9HGLI/ref=cm_sw_em_r_mt_dp_A8CZ056TM52EJGZTGZGR?_encoding=UTF8&psc=1) | 1 |
-| [Arduino Uno](https://www.amazon.com/dp/B007R9TUJE/ref=cm_sw_em_r_mt_dp_TY8JGK0CJD1JEJM4BNNJ) | 1 | 
-| [A4988 Stepper Driver](https://www.amazon.com/dp/B01FFGAKK8/ref=cm_sw_em_r_mt_dp_V0YKTYKDWMR8WHTKA53T?_encoding=UTF8&psc=1) | 1 |
-| [Small Breadboard](https://www.amazon.com/dp/B082VYXDF1/ref=cm_sw_em_r_mt_dp_N6Q28CAGPAYCKCSJKDDC?_encoding=UTF8&psc=1) | 1 |
-| [Panel Mount Latching Push Buttons (On/Off)](https://amzn.to/3VxQ29h) | 1|
-| [Limit Switch](https://www.amazon.com/gp/product/B07X142VGC) | 1 |
-| [RGB Common Cathode LED](https://www.amazon.com/dp/B0194Y6MW2/ref=cm_sw_em_r_mt_dp_FW3CFQT7ZGFQ2R04N6G3?_encoding=UTF8&psc=1) | 1 |
-| [LCD1602 Display Module](https://a.co/d/00xX1FFZ) | 1 |
-
-# 3D Printed Parts
-
-| Part      | Quantity |
-| ----------- | ----------- |
-| [Barrel Holder](https://github.com/ellaj24/ellaj24.github.io/blob/main/assets/img/Barrel%20Holder.jpg) | 1 |
-| [Plunger Holder](https://github.com/ellaj24/ellaj24.github.io/blob/main/assets/img/Plunger%20Holder.jpg) | 1 |
-| [End Support](https://github.com/ellaj24/ellaj24.github.io/blob/main/assets/img/End%20Support.jpg) | 2|
-| [Motor Mounting Plate](https://github.com/ellaj24/ellaj24.github.io/blob/main/assets/img/Motor%20Mounting%20Plate.jpg) | 1 |
-| [Enclosure](https://github.com/ellaj24/ellaj24.github.io/blob/main/assets/img/Enclosure.jpg) | 1 |
-
-# Arduino Code
-[Link to Code File](https://github.com/ellaj24/ellaj24.github.io/blob/main/assets/MotorSpeedCode.ino)
-
-# CAD Model
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b602811a1b84a38a6c3e09a?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
-
-# Operation
-The syringe pump can be operated in the following manner:
-1.	In the Arduino code, change the diameter of the syringe and the desired flow rate. 
-2.	With the power supply unplugged, connect the Arduino to the computer and upload the code.
-3.	Once the code is uploaded, unplug the Arduino from the computer.
-4.	Fill syringe with the amount of fluid needed.
-5.	Attach a clear tube to the end of the syringe to direct the flow of liquid and place its end in the receiving vessel.
-6.	Twist the lead screw to move the plunger holder until it is the desired distance from the barrel holder.
-7.	Place the desired syringe size (10/20 mL) with the barrel resting on the barrel holder and the end of the plunger in the plunger holder slit.
-8.	With the Arduino unplugged, plug the power supply into an outlet.
-9.	Press the red button on the front of the enclosure to start the pump, and the LED will turn green when it is running. During movement, the switch can be pressed again the pause the pump, and the LED will turn yellow.
-10.	Continue to let the pump run until the LED light turns red and the pump stops moving or desired fluid output is achieved.
-11.	Unplug the syringe pump and carefully remove the syringe from the pump.
 
 {% include gallery caption="Syringe Pump Gallery" %}
