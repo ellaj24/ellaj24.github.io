@@ -17,7 +17,7 @@ In many projects, it is often feasible to use a print-in-place design to 3D prin
 
 # Multimaterial Pliers
 These multimaterial pliers consists of rigid PLA handles joined by a flexible 95A TPU spring. At rest, the pliers remain open, and upon compression of the handles, the jaws close together and return to their open resting postion when the compression is removed. These were designed to capably pick up resistors.
-
+![Pliers](/assets/img/pliers.gif)
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b602811173105476a813c84?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 # 
