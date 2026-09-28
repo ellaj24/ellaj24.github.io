@@ -17,13 +17,38 @@ In many projects, it is often feasible to use a print-in-place design to 3D prin
 
 # Multimaterial Pliers
 These multimaterial pliers consists of rigid PLA handles joined by a flexible 95A TPU spring. At rest, the pliers remain open, and upon compression of the handles, the jaws close together and return to their open resting postion when the compression is removed. These were designed to capably pick up resistors.
-![Pliers](/assets/img/pliers.gif)
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b602811173105476a813c84?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-# 
+![Pliers](https://github.com/ellaj24/ellaj24.github.io/blob/main/assets/img/pliers.gif)
+
+# CAD Model and Design Process
+Without access to multi-material printers, this design can be executed by printing the flexible and rigid pieces separately and hand pressing the parts together. These parts can be modeled together and exported separately for individual printing.
+
+To securely connect the flexible components to the rigid, dovetails were include on the flexible component's design. Complementing holes were included on the handles and jaws to allow them to slide into place to complete the plier assembly. 
+
+## General Size Specifications
+Because of the intended purpose of these pliers, it was necessary to ensure a size that comfortably fits in the users hand while remaining functional. Further, an increased height of the pliers restricts the flexible component from moving out of plane. Thus, the following measurements were used when designing.
+
+| Specification | Size (mm) |
+| ----------- | ----------- |
+| Jaw Length | 63 |
+| Jaw Resting Capacity| 14.5|
+| Jaw Max Capacity | 17|
+| Flexible Component | 20 x 20 |
+| Handle Length | 70 |
+| Plier Height | 15 |
+
 
 ## Flexible Component
-Slicer settings were leveraged to obtain the grid pattern on the flexible center component. By changing the infill density, the number of grids could be manipulated, thereby tuning the rigidity of the component and thus the capacity of the pliers. 
+Slicer settings were leveraged to obtain the grid pattern on the flexible center component. By changing the infill density, the number of grids could be manipulated, thereby tuning the rigidity of the component and thus the capacity of the pliers. In the final model, a 10% infill density was used. At the extrusion height used, this amount allowed for easy and secure closure of the jaws while maintaining the stability of the in-plane closing motion. 
+
+## Clearance Requirements
+While a clearance around the dovetails can make the fitting of the rigid and flexible parts easier, the final assembly of the pliers used no added clearance, and the parts were hand-pressed together before being completed by hammering them in with a mallet. 
+
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b602811173105476a813c84?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+
+
+ 
 
 
 # Off-The-Shelf Parts
