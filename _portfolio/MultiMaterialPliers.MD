@@ -16,7 +16,8 @@ gallery:
 In many projects, it is often feasible to use a print-in-place design to 3D print parts with moving components, enabling single material extrusion without need for post-processing asesembly. Print-in-place design in used in many practical applications, such as [hinges](https://www.printables.com/model/565824-hinge-print-in-place-optimized-for-3d-printing-no-) or [bearings](https://www.printables.com/model/561588-bearings-print-in-place-with-real-rolling-elements), and some more novel, like [fidget toys](https://www.printables.com/model/972886-rotarings-print-in-place-rotating-fidget). This type of printing approach requires clearances around moving parts. However, successful execution requires careful and often complicated design and orientation of parts for proper printing, and the performance of the piece is dependent upon the accuracy of the print, which can often be affected by printing irregularities. Thus, in many cases, it is more efficient employ a different approach in design. 
 
 # Project and Design
-These pliers utilizes 
+This project utilizes a more traditional method of modeling and printing where motion is achieved by fitting together multiple parts of differing material properties. These multimaterial pliers consists of rigid PLA handles joined by a flexible TPU hinge. At rest, the pliers remain open, and upon compression of the handles, the jaws close together. When the pressure is removed, the pliers return to their open resting postion. 
+To The slicer settings was leveraged to obtain the grid pattern on the flexible center component.
 
 
 # Off-The-Shelf Parts
