@@ -40,6 +40,12 @@ Because of the intended purpose of these pliers, it was necessary to ensure a si
 ## Flexible Component
 Slicer settings were leveraged to obtain the grid pattern on the flexible center component. By changing the infill density, the number of grids could be manipulated, thereby tuning the rigidity of the component and thus the capacity of the pliers. In the final model, a 20% infill density was used. At the extrusion height used, this amount allowed for easy and secure closure of the jaws while maintaining the stability of the in-plane closing motion. 
 
+## Clearance Requirements
+While a clearance around the dovetails can make the fitting of the rigid and flexible parts easier, the final assembly of the pliers used no added clearance, and the parts were hand-pressed together before being completed by hammering them in with a mallet. 
+
+## Iterations
+In general, only one iteration of printing/fitting was needed to achieve the final pliers. For efficiency, three flexible joints were printed at 20%, 25%, and 30% infill densities. The first fitting of the pliers used the 20% infill density, and the pliers were considered fully functioning with this assembly. Thus, only one set of rigid parts needed to be printed (handles, jaws). All parts were printed with a 0.6 mm nozzle. 
+
 | | Rigid (Handles & Jaws) | Flexible (Joint) |
 | ----| ----------- | ----------- |
 | Material|PLA  | 95A TPU |
@@ -47,14 +53,6 @@ Slicer settings were leveraged to obtain the grid pattern on the flexible center
 | Infinill Density| 15 % | 20%|
 | Perimeters| 3 | 3 |
 |Top/Bottom Solid Layers | 3 | 0 |
-
-
-## Clearance Requirements
-While a clearance around the dovetails can make the fitting of the rigid and flexible parts easier, the final assembly of the pliers used no added clearance, and the parts were hand-pressed together before being completed by hammering them in with a mallet. 
-
-## Iterations
-In general, only one iteration of printing/fitting was needed to achieve the final pliers. For efficiency, three flexible joints were printed at 20%, 25%, and 30% infill densities. The first fitting of the pliers used the 20% infill density, and the pliers were considered fully functioning with this assembly. Thus, only one set of rigid parts needed to be printed (handles, jaws). 
-
 
 # CAD Model
 
