@@ -20,6 +20,9 @@ These multimaterial pliers consists of rigid PLA handles joined by a flexible 95
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b602811173105476a813c84?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
+# 
+
+## Flexible Component
 Slicer settings were leveraged to obtain the grid pattern on the flexible center component. By changing the infill density, the number of grids could be manipulated, thereby tuning the rigidity of the component and thus the capacity of the pliers. 
 
 
