@@ -2,13 +2,12 @@
 title: "MultiMaterial Pliers"
 excerpt: "3D printed pliers with a flexible TPU component capable of picking up thin wires of resistors ."
 header:
-  image: /assets/img/Assembly_Render_08292026.png
+  image: assets/img/pliers_main.jpeg
 
-  teaser: /assets/img/Assembly Real.jpg
+  teaser: assets/img/pliers_main.jpeg
 gallery:
-  - image_path: assets/img/wiring diagram.jpg
-  - image_path: assets/img/Assembly Real.jpg
-  - image_path: assets/img/Assembly_Render_08292026.png
+  - image_path: assets/img/pliers_iterations.jpeg
+
    
 ---
 # Print-in-Place Designs
