@@ -48,7 +48,7 @@ Slicer settings were leveraged to obtain the grid pattern on the flexible center
 While a clearance around the dovetails can make the fitting of the rigid and flexible parts easier, the final assembly of the pliers used no added clearance, and the parts were hand-pressed together before being completed by hammering them in with a mallet. 
 
 ## Iterations
-In general, only one iteration of printing/fitting was needed to achieve the final pliers. For efficiency, three flexible joints were printed at 18%, 23%, and 31% infill densities. The first fitting of the pliers used the 18% infill density, and the pliers were considered fully functioning with this assembly. Thus, only one set of rigid parts needed to be printed (handles, jaws). All parts were printed with a 0.6 mm nozzle. 
+In general, only one iteration of printing/fitting was needed to achieve the final pliers. For efficiency, three flexible joints were printed at 18%, 23%, and 31% infill densities. The first fitting of the pliers used the 18% infill density, and the pliers were considered fully functioning with this assembly. Thus, only one set of rigid parts needed to be printed (handles, jaws). All parts were printed with a 0.6 mm nozzle. All parts were printed at the default speed for the nozzle and materials.
 
 | | Rigid (Handles & Jaws) | Flexible (Joint) |
 | ----| ----------- | ----------- |
@@ -57,6 +57,7 @@ In general, only one iteration of printing/fitting was needed to achieve the fin
 | Infinill Density| 15 % | 18%|
 | Perimeters| 3 | 3 |
 |Top/Bottom Solid Layers | 3 | 0 |
+| Print Speed (mm/s) | 80 | 45 |
 
 # CAD Model
 
