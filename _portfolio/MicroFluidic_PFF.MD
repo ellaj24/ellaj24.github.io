@@ -69,6 +69,10 @@ To determine the location of the middle outlet section, consider locations of th
 
 Therefore, we predict that the farthest edge of the smaller particle outlet should be at $2.42\text{ mm}$ from the upper wall. The middle section to collect the larger particles should begin at the top edge of the smaller large particle, $4.68\text{ mm}$ from the upper wall, and end at the bottom edge of the largest particle, $5.76\text{ mm}$ from the upper wall.
 
+Therefore, the divide between the top and middle outlets should be between the lowest smallest particle and the highest larger particle, between 2.42 and 4.68 mm. Thus, the divide will be at 3.5 mm.
+
+Further, the divide between the middle and bottom outlets should be far a little beyond the lowest large particle, 5.76 mm, to account for any error. Thus, the divide will be at 5.9 mm.
+
 ![Pliers](/assets/img/pliers_motion.gif)
 
 
