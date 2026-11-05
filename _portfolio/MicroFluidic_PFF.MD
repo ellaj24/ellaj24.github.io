@@ -30,8 +30,7 @@ Where $Y_{PFF}$ is the location of the radius of the particle from the lower wal
 
 I am choosing a length of 3 mm and 7 mm for the pinch and broad sections, respectively. I don't know why for the pinch section. 
 
-As streamlines transition from the pinch to broadening section, the length of the broad sections should be ~ 5-10 mm. For the first broad section, I will use 7 mm, in the middle of this range, as I already added an additional 0.5 mm to the enhanced section distance from the upper wall.
-
+As streamlines transition from the pinch to broadening section, the length of the broad sections should be ~ 5-10 mm. For the first broad section, I will use 10 mm.
 
 ![Pliers](/assets/img/pliers_motion.gif)
 
