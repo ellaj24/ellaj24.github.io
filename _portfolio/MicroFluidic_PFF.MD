@@ -19,6 +19,8 @@ To have PFF, laminar flow is required. Thus, the width of the pinch and broad se
 
 ## Length of the $w_p \text{ and } w_b$ sections
 
+I am choosing a length of 3 mm and 10 mm for the pinch and broad sections, respectively. I don't know why. 
+
 ## Determining the location of the enhanced pinch flow fractionation section
 The enhanced section must start in a location such that it collects the particle farthest from the upper wall. Thus, we calculate particle positions from the bottom wall of the broad section using the $Y_{PFF}$ equation.
 
