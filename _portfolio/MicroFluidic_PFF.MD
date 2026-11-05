@@ -40,7 +40,7 @@ The length of the enhanced pinching section will be 3 mm, and the broad section 
 
 For the upper outlet location, consider the $Y_{EPFF}$ of the larger small particle of diameter 0.063 mm, which will be the farthest from the upper wall. Its bottom edge will be located 3.95 mm from the upper wall. 
 
-To determine the location of the middle outlet section, consider the diameters of the large and small particles. Further, considering the $Y_{EPFF}$ of the smaller diameter of the larger particle, 0.125 mm, its top edge will be located 7.71 mm from the upper wall. Further, the final position of the center of the largest diameter particle from the upper wall in the enhanced pinch flow fractionation section is $Y_{EPFF} = 9.32 \text{ mm}$. To account for the radius, the bottom edge of the particle will be 9.395 mm from the upper wall.
+To determine the location of the middle outlet section, consider locations of the large-diameter particles. The $Y_{EPFF}$ of the 0.125 mm particle is 7.77 mm from the upper edge. Thus, its top edge will be located 7.71 mm from the upper wall. The largest diameter particle from the upper wall is $Y_{EPFF} = 9.32 \text{ mm}$. To account for the radius, the bottom edge of the particle will be 9.395 mm from the upper wall.
 
 Therefore, we predict that the farthest edge of the smaller particle outlet should be at 3.95 mm from the upper wall. The middle section to collect the larger particles should begin at the top edge of the smaller large particle, 7.71 mm from the upper wall, and end at the bottom edge of the largest particle, 9.40 mm from the upper wall.
 
