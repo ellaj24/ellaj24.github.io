@@ -10,6 +10,8 @@ gallery:
 
    
 ---
+Because it is not efficient to do multiple iterations, many parameter selections are estimations within a possible range of working values. It was necessary to pick parameters such that the separation was maximized while insuring the separator had the best probability of working.
+
 ## Print-in-Place Designs
 
 The $w_p$ (width of the pinch section) should be as small as possible. In the ideal case, it should be as large as the largest particle diameter, 150 um. Because I do not want particles to get stuck, the width of the pinch section was chosen to be 0.25 mm.
@@ -17,14 +19,18 @@ The $w_p$ (width of the pinch section) should be as small as possible. In the id
 ## Height of the channel
 To have PFF, laminar flow is required. Thus, the width of the pinch and broad sections must be much greater than the height of that section. Thus, the width of the pinch and broad section should be 2x and at least 10x the height of the pinch and broad section, respectively. Because the broad section width is set at 19 mm, we must ensure the height is at most 1.9 mm $(10 \times 1.9 \text{ mm} = 19 \text{ mm} = w_b)$. 
 
-## Length of the $w_p \text{ and } w_b$ sections
 
-I am choosing a length of 3 mm and 10 mm for the pinch and broad sections, respectively. I don't know why. 
 
 ## Determining the location of the enhanced pinch flow fractionation section
 The enhanced section must start in a location such that it collects the particle farthest from the upper wall. Thus, we calculate particle positions from the bottom wall of the broad section using the $Y_{PFF}$ equation.
 
 Where $Y_{PFF}$ is the location of the radius of the particle from the lower wall. Thus, we use the 150 um particle diameter. With a $w_p = 0.25$ mm, the location of the center 150 um particle is 13.3 mm from the bottom wall. Therefore, the farthest part of the 150 um from the upper wall is $13.3 \text{ mm} - 0.075 \text{ mm} = 13.225 \text{ mm}$. To collect the largest diameter particle, the distance of the edge of the enhanced pinched section from the upper wall should be $19 \text{ mm} - 13.225 \text{ mm} = 5.775 \text {mm}$. To account for any irregularities in flow, an additional 0.5 mm will be added to this value (for a total of 6.275 mm from the upper wall) to ensure collection of particles. 
+
+## Length of the $w_p \text{ and } w_b$ sections
+
+I am choosing a length of 3 mm and 7 mm for the pinch and broad sections, respectively. I don't know why for the pinch section. 
+
+As streamlines transition from the pinch to broadening section, the length of the broad sections should be ~ 5-10 mm. For the first broad section, I will use 7 mm, in the middle of this range, as I already added an additional 0.5 mm to the enhanced section distance from the upper wall.
 
 
 ![Pliers](/assets/img/pliers_motion.gif)
