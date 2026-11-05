@@ -15,12 +15,12 @@ gallery:
 The $w_p$ (width of the pinch section) should be as small as possible. In the ideal case, it should be as large as the largest particle diameter, 150 um. Because I do not want particles to get stuck, the width of the pinch section was chosen to be 0.25 mm.
 
 ## Height of the channel
-To have PFF, laminar flow is required. Thus, the width of the pinch and broad sections must be much greater than the height of that section. Thus, the width of the pinch and broad section should be 2x and at least 10x the height of the pinch and broad section, respectively. Because the broad section width is set at 19 mm, we must ensure the height is at least 1.9 mm $(10 \times 1.9 \text{ mm} = 19 \text{ mm} = w_b)$. 
+To have PFF, laminar flow is required. Thus, the width of the pinch and broad sections must be much greater than the height of that section. Thus, the width of the pinch and broad section should be 2x and at least 10x the height of the pinch and broad section, respectively. Because the broad section width is set at 19 mm, we must ensure the height is at most 1.9 mm $(10 \times 1.9 \text{ mm} = 19 \text{ mm} = w_b)$. 
 
 ## Determining the location of the enhanced pinch flow fractionation section
 The enhanced section must start in a location such that it collects the particle farthest from the upper wall. Thus, we calculate particle positions from the bottom wall of the broad section using the $Y_{PFF}$ equation.
 
-Where $Y_{PFF}$ is the location of the radius of the particle from the lower wall. Thus, we use the 150 um particle diameter. With a $w_p = 0.25$ mm, the location of the center 150 um particle is 13.3 mm from the bottom wall. Therefore, the farthest part of the 150 um from the upper wall is $13.3 \text{ mm} - 0.075 \text{ mm} = 13.225 \text{ mm}$. To collect the largest diameter particle, the distance of the edge of the enhanced pinched section from the upper wall should be that length. To account for any irregularities in flow, an additional 0.5 mm will be subtracted from this value (for a total of 12.725 mm from the upper wall) to ensure collection of particles. 
+Where $Y_{PFF}$ is the location of the radius of the particle from the lower wall. Thus, we use the 150 um particle diameter. With a $w_p = 0.25$ mm, the location of the center 150 um particle is 13.3 mm from the bottom wall. Therefore, the farthest part of the 150 um from the upper wall is $13.3 \text{ mm} - 0.075 \text{ mm} = 13.225 \text{ mm}$. To collect the largest diameter particle, the distance of the edge of the enhanced pinched section from the upper wall should be $19 \text{ mm} - 13.225 \text{ mm} = 5.775 \text {mm}$. To account for any irregularities in flow, an additional 0.5 mm will be added to this value (for a total of 6.275 mm from the upper wall) to ensure collection of particles. 
 
 
 ![Pliers](/assets/img/pliers_motion.gif)
