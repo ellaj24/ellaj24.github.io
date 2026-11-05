@@ -17,7 +17,7 @@ The $w_p$ (width of the pinch section) should be as small as possible. In the id
 ## Height of the channel
 To have PFF, laminar flow is required. Thus, the width of the pinch and broad sections must be much greater than the height of that section. Thus, the width of the pinch and broad section should be 2x and at least 10x the height of the pinch and broad section, respectively. Because the broad section width is set at 19 mm, we must ensure the height is at most 1.9 mm $(10 \times 1.9 \text{ mm} = 19 \text{ mm} = w_b)$. 
 
-## Length of the $w_p \text{and} w_b}$ sections
+## Length of the $w_p \text{and} w_b$ sections
 
 ## Determining the location of the enhanced pinch flow fractionation section
 The enhanced section must start in a location such that it collects the particle farthest from the upper wall. Thus, we calculate particle positions from the bottom wall of the broad section using the $Y_{PFF}$ equation.
