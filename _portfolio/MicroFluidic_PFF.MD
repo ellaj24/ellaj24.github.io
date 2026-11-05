@@ -24,7 +24,7 @@ To have PFF, laminar flow is required. Thus, the width of the pinch and broad se
 
 To maximize separation, the $Y_{PFF}$ equation must be considered. 
 
-Thus, we must manage the trade-off between resistance ratio and the $\frac{d_E/w_p}$ factor.
+Thus, we must manage the trade-off between resistance ratio and the $\frac{d_E}{w_p}$ factor.
 
 
 
