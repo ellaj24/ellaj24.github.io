@@ -12,12 +12,22 @@ gallery:
 ---
 Because it is not efficient to do multiple iterations, many parameter selections are estimations within a possible range of working values. It was necessary to pick parameters such that the separation was maximized while insuring the separator had the best probability of working.
 
-## Print-in-Place Designs
+## Widths of the first pinch and broad sections
 
 The $w_p$ (width of the pinch section) should be as small as possible. In the ideal case, it should be as large as the largest particle diameter, 150 um. Because I do not want particles to get stuck, the width of the pinch section was chosen to be 0.25 mm.
 
 ## Height of the channel
-To have PFF, laminar flow is required. Thus, the width of the pinch and broad sections must be much greater than the height of that section. Thus, the width of the pinch and broad section should be 2x and at least 10x the height of the pinch and broad section, respectively. Because the broad section width is set at 19 mm, we must ensure the height is at most 1.9 mm $(10 \times 1.9 \text{ mm} = 19 \text{ mm} = w_b)$. 
+To have PFF, laminar flow is required. Thus, the width of the pinch and broad sections must be much greater than the height of that section.
+
+
+For the broad section, the width to height ratio should be at least 10:1. Because the broad section width is set at 19 mm, we must ensure the height is at most 1.9 mm $(10 \times 1.9 \text{ mm} = 19 \text{ mm} = w_b)$. This should not be limiting.
+
+
+For laminar flow, the ratio of width to height for the pinch section should be 2:1. Because the chosen width was 0.25 mm, the height should be 0.125. 
+
+Because the height must be consistent for all channels, and the height must be great enough so that the PDMS does not bond with the glass slide, it must be greater than both limitations.
+Thus, a height of 0.5 will be used.
+
 
 ## The lengths of the first pinch flow fractionation section
 
