@@ -52,11 +52,15 @@ The enhanced section must start in a location such that it collects the particle
 
 Where $Y_{PFF}$ is the location of the radius of the particle from the lower wall. Thus, we use the 150 um particle diameter. With a $w_p = 0.25$ mm, the location of the center 150 um particle is 13.3 mm from the bottom wall. Therefore, the farthest part of the 150 um from the upper wall is $13.3 \text{ mm} - 0.075 \text{ mm} = 13.225 \text{ mm}$. To collect the largest diameter particle, the distance of the edge of the enhanced pinched section from the upper wall should be $19 \text{ mm} - 13.225 \text{ mm} = 5.775 \text {mm}$. To account for any irregularities in flow, an additional 0.5 mm will be added to this value (for a total of 6.275 mm from the upper wall) to ensure collection of particles. 
 
-Thus, the narrow enhancing segment is 6.275 mm from the upper wall. We will use a 3 mm length for this section.
+Thus, the narrow enhancing segment is 6.275 mm from the upper wall.
 
 
 
-## Length of the wide enhancing section
+## Determining the lengths and widths of the enhancing section
+
+The dimensions of the enhancing section were determined by maximizing the value of $Y_{EPFF}$ for the largest diameter particle, 0.150 mm, to make for the greatest separation. To do so, the hydraulic resistances of the enhancing and sink segments were calculated using the formulas:
+
+$$ R = \frac{12\etaL}{1-0.63(\frac{h}{w}))\frac{1}{h^3w} $$
 
 The length of the enhanced pinching section will be 3 mm, and the broad section will be 33 mm. An additional gap of length 3 mm will be added at the end of this section so the sink and enhancing streams can reconnect before reaching the collection outlets.
 
