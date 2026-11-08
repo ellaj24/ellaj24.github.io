@@ -59,7 +59,7 @@ $$19 \text{ mm} - 13.225 \text{ mm} = 5.775 \text {mm}$$
 
 To account for any irregularities in flow, an additional 0.5 mm will be added to this value (for a total of 6.275 mm from the upper wall) to ensure collection of particles. 
 
-Thus, the narrow enhancing segment is 6.275 mm from the upper wall ($w_p = \text{6.275 mm}$.
+Thus, the narrow enhancing segment is 6.275 mm from the upper wall ($w_p = \text{6.275 mm}$).
 
 
 
