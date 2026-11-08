@@ -62,12 +62,15 @@ The dimensions of the enhancing section were determined by maximizing the value 
 
 $$ R = \frac{12\eta L}{1-0.63(\frac{h}{w})}\times\frac{1}{h^3w} $$
 
-Where the total resistance of the enhancing section is the sum of the hydraulic resistances of the narrow and broad enhancing sections.
-
 Once those values are acquired, the $y_{EPFF}$ for each diameter particle can be calculated using the equation:
 
 $$ y_{EPFF} = (\frac{R_E}{R_S}+1) \ \frac{d_E}{w_p} \ r_p $$
 
+Where the total resistance of the enhancing section is the sum of the hydraulic resistances of the narrow and broad enhancing sections.
+
+Finally, to determine the dimensions, the $y_{EPFF}$ for the 0.150 mm particle was maximizes by varying the width of the broad enhancing section, $d_E$ (and therefore the width of the sink section, $w_s$), and the lengths of the narrow and broad enhancing sections. 
+
+Because a 1-3 mm space was required at the end of the enhancing section to allow the flows to reconnect before the outlets, a total of 36 mm was left for the lengths of the narrow and broad enhancing sections combined, where $L_narrow = 36 - L_broad$, and vice versa.  
 
 # Determining the location of outlet sections based on the $Y_{EPFF}$ of the largest diameter particle
 
