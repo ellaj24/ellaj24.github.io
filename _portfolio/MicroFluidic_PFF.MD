@@ -65,6 +65,7 @@ $$ R = \frac{12\eta L}{1-0.63(\frac{h}{w})}\times\frac{1}{h^3w} $$
 Where the total resistance of the enhancing section is the sum of the hydraulic resistances of the narrow and broad enhancing sections.
 
 Once those values are acquired, the $y_{EPFF}$ for each diameter particle can be calculated using the equation:
+
 $$ y_{EPFF} = (\frac{R_E}{R_S)+1) \ \frac{d_E}{w_p} \ r_p $$
 
 
