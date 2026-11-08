@@ -50,7 +50,7 @@ Thus, we must manage the trade-off between resistance ratio and the $\frac{d_E}{
 
 The enhanced section must start in a location such that it collects the particle farthest from the upper wall. Thus, we calculate particle positions from the bottom wall of the broad section using the $Y_{PFF}$ equation:
 
-$$ $Y_{PFF} = ( w_p - \frac{D}{2}) \ \frac{w_b}{w_p} $$
+$$ $Y_{PFF} = \left( w_p - \frac{D}{2} \right) \ \frac{w_b}{w_p} $$
 
 Where $Y_{PFF}$ is the location of the radius of the particle from the lower wall. Thus, we use the 150 um particle diameter. With a $w_p = 0.25$ mm, the location of the center 150 um particle is 13.3 mm from the bottom wall. Therefore, the farthest part of the 150 um from the upper wall is $13.3 \text{ mm} - 0.075 \text{ mm} = 13.225 \text{ mm}$. To collect the largest diameter particle, the distance of the edge of the enhanced pinched section from the upper wall should be $19 \text{ mm} - 13.225 \text{ mm} = 5.775 \text {mm}$. To account for any irregularities in flow, an additional 0.5 mm will be added to this value (for a total of 6.275 mm from the upper wall) to ensure collection of particles. 
 
@@ -62,11 +62,11 @@ Thus, the narrow enhancing segment is 6.275 mm from the upper wall.
 
 The dimensions of the enhancing section were determined by maximizing the value of $y_{EPFF}$ for the largest diameter particle, 0.150 mm, to make for the greatest separation. To do so, the hydraulic resistances of the enhancing and sink segments were calculated using the equation:
 
-$$ R = \frac{12\eta L}{1-0.63(\frac{h}{w})}\times\frac{1}{h^3w} $$
+$$ R = \frac{12\eta L}{1-0.63 \left( \frac{h}{w} \right) }\times\frac{1}{h^3w} $$
 
 Once those values are acquired, the $y_{EPFF}$ for each diameter particle can be calculated using the equation:
 
-$$ y_{EPFF} = (\frac{R_E}{R_S}+1) \ \frac{d_E}{w_p} \ r_p $$
+$$ y_{EPFF} = \left( \frac{R_E}{R_S}+1 \right) \ \frac{d_E}{w_p} \ r_p $$
 
 Where the total resistance of the enhancing section is the sum of the hydraulic resistances of the narrow and broad enhancing sections.
 
