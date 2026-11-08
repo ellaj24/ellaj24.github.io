@@ -43,7 +43,7 @@ To determine the final location of particles, the effects of both the first pinc
 
 
 
-## Determining the dimensions of the narrow enhancing segment
+## Determining the width of the narrow enhancing segment
 
 The enhancing section must start in a location such that it collects the particle farthest from the upper wall. Thus, we calculate particle positions from the bottom wall of the broad section using the $Y_{PFF}$ equation:
 
@@ -59,7 +59,7 @@ $$19 \text{ mm} - 13.225 \text{ mm} = 5.775 \text {mm}$$
 
 To account for any irregularities in flow, an additional 0.5 mm will be added to this value (for a total of 6.275 mm from the upper wall) to ensure collection of particles. 
 
-Thus, the narrow enhancing segment is 6.275 mm from the upper wall.
+Thus, the narrow enhancing segment is 6.275 mm from the upper wall ($w_p = \text{6.275 mm}$.
 
 
 
