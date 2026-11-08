@@ -66,7 +66,7 @@ Where the total resistance of the enhancing section is the sum of the hydraulic 
 
 Once those values are acquired, the $y_{EPFF}$ for each diameter particle can be calculated using the equation:
 
-$$ y_{EPFF} = (\frac{R_E}{R_S)+1) \ \frac{d_E}{w_p} \ r_p $$
+$$ y_{EPFF} = (\frac{R_E}{R_S}+1) \ \frac{d_E}{w_p} \ r_p $$
 
 
 # Determining the location of outlet sections based on the $Y_{EPFF}$ of the largest diameter particle
