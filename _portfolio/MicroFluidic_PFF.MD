@@ -121,7 +121,7 @@ $y_{EPFF}$ of each particle:
 The outlets must be designed so the particles of the same nominal diameter are collected into the same outlet. Thus, the boundaries must be chosen based on the $y_{EPFF}$ of the particles.
 
 
-The outlet boundary between the smaller and larger particles was chosen to be 5 mm from the upper wall as the 0.063 mm and 0.125 diameter particles are expected to reach 3.92 mm and 7.78 mm from the upper wall, respectively. The chosen boundary is roughly in the middle of these two locations.
+The outlet boundary between the smaller and larger particles was chosen to be 5 mm from the upper wall as the 0.063 mm and 0.125 mm diameter particles are expected to reach 3.92 mm and 7.78 mm from the upper wall, respectively. The chosen boundary is roughly in the middle of these two locations.
 
 The outlet boundary between the larger particles and the sink need not be as precise. To ensure the middle outlet collects all of the larger diameter particles, this outlet boundary was chosen to be 10 mm away from the upper wall.
 
