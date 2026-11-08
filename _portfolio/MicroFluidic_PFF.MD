@@ -14,7 +14,7 @@ Because it is not efficient to do multiple iterations, many parameter selections
 
 ## Widths of the first pinch and broad sections
 
-The $w_p$ (width of the pinch section) should be as small as possible. In the ideal case, it should be as large as the largest particle diameter, 150 um. Because I do not want particles to get stuck, the width of the pinch section was chosen to be 0.25 mm.
+The width of the pinch section, $w_p$, should be as small as possible. In the ideal case, it should be as large as the largest particle diameter, 150 um. Because I do not want particles to get stuck, the width of the pinch section was chosen to be 0.25 mm.
 
 ## Height of the channel
 To have PFF, laminar flow is required. Thus, the width of the pinch and broad sections must be much greater than the height of that section.
