@@ -50,6 +50,7 @@ The enhancing section must start in a location such that it collects the particl
 $$ Y_{PFF} = \left( w_p - \frac{D}{2} \right) \ \frac{w_b}{w_p} $$
 
 Where $Y_{PFF}$ is the location of the radius of the particle from the lower wall. Thus, we use the 150 um particle diameter. With a $w_p = 0.25$ mm, the location of the center 150 um particle is 13.3 mm from the bottom wall. Therefore, the farthest part of the 150 um from the upper wall is $13.3 \text{ mm} - 0.075 \text{ mm} = 13.225 \text{ mm}$. To collect the largest diameter particle, the distance of the edge of the enhanced pinched section from the upper wall should be:
+
 $$19 \text{ mm} - 13.225 \text{ mm} = 5.775 \text {mm}$$
 
 To account for any irregularities in flow, an additional 0.5 mm will be added to this value (for a total of 6.275 mm from the upper wall) to ensure collection of particles. 
