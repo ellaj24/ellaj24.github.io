@@ -23,10 +23,9 @@ To have PFF, laminar flow is required. Thus, the width of the pinch and broad se
 For the broad section, the width to height ratio should be at least 10:1. Because the broad section width is set at 19 mm, we must ensure the height is at most 1.9 mm $(10 \times 1.9 \text{ mm} = 19 \text{ mm} = w_b)$. This should not be limiting.
 
 
-For laminar flow, the ratio of width to height for the pinch section should be 2:1. Because the chosen width was 0.25 mm, the height should be 0.125. 
+For laminar flow, the ratio of width to height for the pinch section should be 2:1. Because the chosen width was 0.25 mm, the height according to that ratio should be 0.125. 
 
-Because the height must be consistent for all channels, and the height must be great enough so that the PDMS does not bond with the glass slide, it must be greater than both limitations.
-Thus, a height of 0.5 will be used.
+Because the height must be consistent for all channels, and the height must be great enough so that the PDMS does not bond with the glass slide, a channel height of 0.125 mm cannot be used (the largest particle diameter is 0.150 mm; this height will be too small). Thus a height of 0.5 mm will be used across the entire device.
 
 
 ## The lengths of the first pinch flow fractionation section
