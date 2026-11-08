@@ -58,11 +58,14 @@ Thus, the narrow enhancing segment is 6.275 mm from the upper wall.
 
 ## Determining the lengths and widths of the enhancing section
 
-The dimensions of the enhancing section were determined by maximizing the value of $Y_{EPFF}$ for the largest diameter particle, 0.150 mm, to make for the greatest separation. To do so, the hydraulic resistances of the enhancing and sink segments were calculated using the formulas:
+The dimensions of the enhancing section were determined by maximizing the value of $y_{EPFF}$ for the largest diameter particle, 0.150 mm, to make for the greatest separation. To do so, the hydraulic resistances of the enhancing and sink segments were calculated using the equation:
 
 $$ R = \frac{12\eta L}{1-0.63(\frac{h}{w})}\times\frac{1}{h^3w} $$
 
-The length of the enhanced pinching section will be 3 mm, and the broad section will be 33 mm. An additional gap of length 3 mm will be added at the end of this section so the sink and enhancing streams can reconnect before reaching the collection outlets.
+Where the total resistance of the enhancing section is the sum of the hydraulic resistances of the narrow and broad enhancing sections.
+
+Once those values are acquired, the $y_{EPFF}$ for each diameter particle can be calculated using the equation:
+$$ y_{EPFF} = (\frac{R_E}{R_S)+1) \ \frac{d_E}{w_p} \ r_p $$
 
 
 # Determining the location of outlet sections based on the $Y_{EPFF}$ of the largest diameter particle
