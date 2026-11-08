@@ -39,15 +39,13 @@ As streamlines transition from the pinch to broadening section, the length of th
 
 # Enhanced pinch flow fractionation section 
 
-To maximize separation, the $Y_{PFF}$ equation must be considered. 
-
-Thus, we must manage the trade-off between resistance ratio and the $\frac{d_E}{w_p}$ factor.
+To determine the final location of particles, the effects of both the first pinch flow fractionation section and the enhanced pinch flow fractionation section must be considered.
 
 
 
-## Determining the dimensions of the narrow enhancing segment of the enhanced pinch flow fractionation section
+## Determining the dimensions of the narrow enhancing segment
 
-The enhanced section must start in a location such that it collects the particle farthest from the upper wall. Thus, we calculate particle positions from the bottom wall of the broad section using the $Y_{PFF}$ equation:
+The enhancing section must start in a location such that it collects the particle farthest from the upper wall. Thus, we calculate particle positions from the bottom wall of the broad section using the $Y_{PFF}$ equation:
 
 $$ Y_{PFF} = \left( w_p - \frac{D}{2} \right) \ \frac{w_b}{w_p} $$
 
