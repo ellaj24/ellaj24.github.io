@@ -97,7 +97,7 @@ Constant parameters (physical constants or set variables determined in previous 
 | width of snake-like structure | 1 | mm |
 
 
-Variable Parameters (determined 
+Variable Parameters (determined using Excel solver):
 
 | Parameter | Value | Units |
 |----|----|----|
@@ -106,7 +106,7 @@ Variable Parameters (determined
 |width of wide enhancing section | 8.6| mm |
 |width of sink section | 9.4 | mm |
 
-$y_{EPFF}$ of each particle
+$y_{EPFF}$ of each particle:
 
 | Particle diamter (mm) | $y_{EPFF}$ (mm from upper wall)|
 | ----- | ----|
