@@ -55,7 +55,7 @@ $$13.3 \text{ mm} - 0.075 \text{ mm} = 13.225 \text{ mm}$$
 
 To collect the largest diameter particle, the distance of the edge of the enhanced pinched section from the upper wall should be:
 
-$$19 \text{ mm} - 13.225 \text{ mm} = 5.775 \text {mm} $$
+$$19 \text{ mm} - 13.225 \text{ mm} = 5.775 \text { mm} $$
 
 To account for any irregularities in flow, an additional 0.5 mm will be added to this value (for a total of 6.275 mm from the upper wall) to ensure collection of particles. 
 
