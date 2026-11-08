@@ -30,14 +30,14 @@ Because the height must be consistent for all channels, and the height must be g
 
 ## The lengths of the first pinch flow fractionation section
 
-I am choosing a length of 3 mm for the pinch section. I don't know why for the pinch section. 
+I am choosing a length of 3 mm for the pinch section.
 
 As streamlines transition from the pinch to broadening section, the length of the broad sections should be ~ 5-10 mm. For the first broad section, I will use 10 mm.
 
 
 
 
-# Enhanced Pinch Flow Fractionation Section 
+# Enhanced pinch flow fractionation section 
 
 To maximize separation, the $Y_{PFF}$ equation must be considered. 
 
