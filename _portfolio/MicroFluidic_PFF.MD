@@ -138,7 +138,7 @@ The outlet boundary between the smaller and larger particles was chosen to be 5 
 
 The outlet boundary between the larger particles and the sink need not be as precise. To ensure the middle outlet collects all of the larger diameter particles, this outlet boundary was chosen to be 10 mm away from the upper wall.
 
-![Alt text for the image](./assets/img/ufluidic_sketch.jpeg)
+![dimensions sketch](/assets/img/ufluidic_sketch.jpeg)
 # Instructions
 
 To create a ufluidic device using resin printing, a mold of your device structure will be printed and processed, and the device will be cast with polydimethylsiloxane (PDMS) and bonded to a glass slide. 
