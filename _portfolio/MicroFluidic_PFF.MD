@@ -102,8 +102,8 @@ Variable Parameters (determined using Excel solver):
 | Parameter | Value | Units |
 |----|----|----|
 |length of narrow enhancing section | 18 | mm |
-|length of wide enhancing section $d_E$ | 18 | mm |
-|width of wide enhancing section | 8.6| mm |
+|length of wide enhancing section | 18 | mm |
+|width of wide enhancing section $d_E$ | 8.6| mm |
 |width of sink section | 9.4 | mm |
 
 $y_{EPFF}$ of each particle:
