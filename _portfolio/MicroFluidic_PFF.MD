@@ -10,7 +10,8 @@ gallery:
 
    
 ---
-#Introduction
+
+# Introduction
 
 Pinch flow fractionation (PFF) is a method to size-separate nano- to micro-scale particles using channel geometries and laminar flow without outer fields (e.g., gravitational, thermal, etc.). To separate, particles are injected separately alongside a buffer medium and flowed through micro channels. These flows join at a pinched section, and particles continue their trajectory adjacent to the wall entered next to. This causes particles of any size to align against the wall. At the end of the pinch section, streamlines enter a broadened section, and the flow profile spreads. As a result, larger particles are forced closer to the center of the channel, and smaller particles follow closer to the side wall. This is caused by the center of particles following their respective streamline; naturally, larger particles have centers located farther from the channel wall, and they thus follow a trajectory closer to the middle. This process is what allows for the size-separation of particles<sup>[2](https://pubs.acs.org/ancham/article/76/18/5465/3446173/Pinched-Flow-Fractionation-Continuous-Size)</sup>.
 
