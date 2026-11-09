@@ -2,9 +2,9 @@
 title: "uFluidic Pinch Flow Fractionation"
 excerpt: "A resin printed ufluidic mold capable of separating micro-scale particles."
 header:
-  image: /assets/img/ufluidic render.png
+  image: /assets/img/ufluidic_render.png
 
-  teaser: /assets/img/ufluidic render.png
+  teaser: /assets/img/ufluidic_render.png
 gallery:
   - image_path: /assets/img/ufluidic_sketch.jpeg
 
@@ -19,7 +19,9 @@ To improve separation, enhanced PFF can be used by adding a snake-like structure
 
 Technology such as these are useful in biomedical applications such as blood sorting. For example, it has been studied in separating cancer cells from white blood cells. Circulating tumor cells (CTCs) are desired in separations due to their importance in studying tumor characteristics in real time. However, they are in low concentration in the blood. [Podenphant et. al.](https://pubs.rsc.org/lc/article/15/24/4598/481492/Separation-of-cancer-cells-from-white-blood-cells) used an injection-molded pinch flow fractionation device to separate white blood cells from cancer cells with >90% efficiency. Other techniques, such as anti-based capture techniques, are limited as they capture only a subpopulation of CTCs and require high start-up costs and user training, which makes the process expensive and less effective. On the other hand, PFF has lower operating costs, is easy to operate, and can be single use. 
 
+PFF devices, along with an enhanced section, can be fabricated by modeling and resin printing a mold. The section below explains the specifications I considered while designing my device.
 
+# Designing my pinch flow fractionation device
 
 Because it is not efficient to do multiple iterations, many parameter selections are estimations within a possible range of working values. It was necessary to pick parameters such that the separation was maximized while insuring the separator had the best probability of working.
 
