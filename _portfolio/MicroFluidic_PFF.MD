@@ -2,9 +2,9 @@
 title: "uFluidic Pinch Flow Fractionation"
 excerpt: "A resin printed ufluidic mold capable of separating micro-scale particles."
 header:
-  image: /assets/img/ufluidic_render.png
+  image: /assets/img/ufluidic_render.PNG
 
-  teaser: /assets/img/ufluidic_render.png
+  teaser: /assets/img/ufluidic_render.PNG
 gallery:
   - image_path: /assets/img/ufluidic_sketch.jpeg
 
