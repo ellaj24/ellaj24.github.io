@@ -6,7 +6,7 @@ header:
 
   teaser: /assets/img/pliers_main.jpeg
 gallery:
-  - image_path: /assets/img/pliers_iteration.jpeg
+  - image_path: /assets/img/ufluidic_sketch.jpeg
 
    
 ---
