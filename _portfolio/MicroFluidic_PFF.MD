@@ -138,28 +138,31 @@ The outlet boundary between the smaller and larger particles was chosen to be 5 
 
 The outlet boundary between the larger particles and the sink need not be as precise. To ensure the middle outlet collects all of the larger diameter particles, this outlet boundary was chosen to be 10 mm away from the upper wall.
 
+![Alt text for the image](./assets/img/ufluidic_sketch.jpeg)
+# Instructions
+
+To create a ufluidic device using resin printing, a mold of your device structure will be printed and processed, and the device will be cast with polydimethylsiloxane (PDMS) and bonded to a glass slide. 
+
+Begin with the CAD model, which should be small enough to fit on the glass slide. In this case, the mold had a reservoir space of 25 mm wide x 75 mm long. For proper bonding, designs must start at least 3 mm in from all sides. Channels of the final device should be extruded in the CAD model, with inlets and outlets extruded beyond the top of the mold.  
+
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b602811edbb11d43a6d3a83?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+Once the CAD model is complete, it can be resin printed. It must be printed with the bottom face of the device parallel to the resin vat to avoid layer lines. 
+
+Once the print is complete, care must be taken when washing. The device must be washed for ~ 10 min, but not beyond 15 min as the resin can absorb IPA. Because uncured resin will prevent the crosslinking of PDMS, turn the mold upside down at an angle to prevent IPA from pooling in the device. Once dry, inspect for any glossy areas, as this is indicative of uncured PDMS, and rewash if necessary. While cleaning, do not touch the inside of the uncured mold with your fingers or paper towel as this will increase the surface roughness and may prevent bonding.
+
+Cure the surface of the mold for 60 seconds at room temperature with supports on. Long curing times are not necessary as they could cause warpage and mechanical strength is not required for its use.
+
+Once cured, remove supports without touching the inside of the mold.
 
 
+# Discussion
 
-![Pliers](/assets/img/pliers_motion.gif)
+Resin printing the mold is an efficient technique to fabricate a ufluidic device as it requires less time and hands-on steps in comparison to more traditional techniques such as photolithography, which requires access to specialized laboratory space and training. Resin printing is more time efficient as CAD model parameters can be changed quickly and other tasks can be completed during printing times.
 
+To handle a wider range of particle sizes, the size of the device can be increased while maintaining the width to height parameter ratios to support laminar flow (described in the section "Height of the channel"), which is required for PFF and EPFF.
 
-
-| Specification | Size (mm) |
-| ----------- | ----------- |
-| Jaw Length | 63 |
-| Jaw Resting Capacity| 14.5|
-| Jaw Max Capacity | 17|
-| Flexible Component | 20 x 20 |
-| Handle Length | 70 |
-| Plier Height | 15 |
-
-
-
-# CAD Model
-
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b602811173105476a813c84?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
-
+The parameters that limit particle size separation are the width of the pinching sections and
 
 
  
