@@ -158,7 +158,8 @@ Once cured, remove supports without touching the inside of the mold.
 
 # Discussion
 
-Resin printing the mold is an efficient technique to fabricate a ufluidic device as it requires less time and hands-on steps in comparison to more traditional techniques such as photolithography, which requires access to specialized laboratory space and training. Resin printing is more time efficient as CAD model parameters can be changed quickly and other tasks can be completed during printing times.
+Resin printing the mold is a significantly more cost and time efficient technique to fabricate a ufluidic device. In contrast to traditional techniques such as photolithography, resin printing requires little training and time investment, as printing time does not require the user to be present. Further, CAD designs allow for easy iteration, making resin printing fabrication of ufluidic devices accessible to anyone.
+On the other hand, photolithography requires cleanroom certifications and access, making it less accessible to most users. Further, the time requirement for per device is days versus hours, and the material costs are much greater<sup>[3](https://formlabs.com/blog/microfluidics-millifluidics-lab-on-a-chip-manufacturing/)</sup>.
 
 To handle a wider range of particle sizes, the size of the device can be increased while maintaining the width to height parameter ratios to support laminar flow (described in the section "Height of the channel"), which is required for PFF and EPFF.
 
