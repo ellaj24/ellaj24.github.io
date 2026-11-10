@@ -155,7 +155,7 @@ Cure the surface of the mold for 60 seconds at room temperature with supports on
 
 Once cured, remove supports without touching the inside of the mold.
 
-![ufluidic mold post-processing](ufluidic_mold.jpg)
+![ufluidic mold post-processing](ufluidic_mold.jpeg)
 
 When the mold is complete, PDMS can be poured and cured, plasma treated, and bonded to the glass slide.
 
