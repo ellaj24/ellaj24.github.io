@@ -62,7 +62,7 @@ The enhancing section must start in a location such that it collects the particl
 
 $$ Y_{PFF} = \left( w_p - \frac{D}{2} \right) \ \frac{w_b}{w_p} $$
 
-Where $Y_{PFF}$ is the location of the radius of the particle from the lower wall. Thus, we use the 150 um particle diameter. With a $w_p = 0.25$ mm, the location of the center 150 um particle is 13.3 mm from the bottom wall. Therefore, the farthest part of the largest particle from the upper wall is:
+Where $Y_{PFF}$ is the location of the radius of the particle from the lower wall. Thus, we use the 150 um particle diameter. With a $w_p = 0.25$ mm, the location of the center 150 um particle is 13.3 mm from the bottom wall. Therefore, the farthest part of the largest particle from the lower wall is:
 
 $$13.3 \text{ mm} - 0.075 \text{ mm} = 13.225 \text{ mm}$$ 
 
