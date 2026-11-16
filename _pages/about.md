@@ -3,7 +3,7 @@
 title: "About Ella Jenner"
 
 ---
-# Hi, I am a chemical engineer interested in pursuing a career in the energy industry!
+# Hi, I am a chemical engineer interested in pursuing a career in a materials-related industry!
 ## Education
 
 * Vanderbilt University, BE Chemical Engineering, Mathematics
