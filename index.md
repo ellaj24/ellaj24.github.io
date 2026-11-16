@@ -11,7 +11,7 @@ header:
 excerpt: "I am a Junior Chemical and Biomolecular Engineering major at Vanderbilt University with an interest and experience in materials-related work!  
 Take a look around and learn more about me and the digital fabrication projects I've completed!"
 feature_row:
- - image_path: assets/img/ufluidic_mold.jpeg
+  - image_path: assets/img/ufluidic_mold.jpeg
     alt: "ufluidic mold"
     title: "Pinch Flow Fractionation uFluidic Device"
     excerpt: "A resin-printed mold for casting uFluidic devices capable of separating micron-sized particles."
