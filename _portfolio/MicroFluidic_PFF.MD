@@ -176,5 +176,5 @@ The factors that limit the lower limit on particle sizes that can be separated u
 
 
 
-{% include gallery caption="Iterations" %}
+{% include gallery caption="images" %}
 
